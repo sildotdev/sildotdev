@@ -1,6 +1,6 @@
 Hi, I'm a designer & software engineer. I like working on games, webapps, and distributed systems.
 
-I graduated with a double major in **Computer Science** & **Economics** from Northwestern University in 2024.
+I graduated with BS from Northwestern University in 2024, double majoring in **Computer Science** & **Economics**.
 
 My largest project was [Palomino](https://github.com/sildotdev/palominorp/), a complex multiplayer game built on Garry's Mod using Lua, Node.js, React, and other technologies to push what's possible in a 20+ year old game engine. I was the sole technical co-founder, in charge of all design & technology for the game. Unfortunately due to unforeseen events within the founding team, it wasn't released in a completed state.
 
